@@ -18,10 +18,9 @@ body {
   background-color: var(--color-background);
   font-family: var(--font-sans);
   line-height: 1.6;
-  color: inherit; /* Let Tailwind text-* classes control color */
+  color: inherit;
 }
 
-/* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-serif);
   color: inherit; 
@@ -29,7 +28,6 @@ h1, h2, h3, h4, h5, h6 {
   
 }
 
-/* Links default styling (optional) */
 a {
   text-decoration: none;
   transition: color 0.3s;
