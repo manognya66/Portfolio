@@ -3,24 +3,33 @@
 @import "tailwindcss";
 
 :root {
-  --font-sans: 'Inter', sans-serif;          
-  --font-serif: 'Russo One', serif;  
-  --color-background: #f9f9f9;           
+  --font-sans: 'Inter', sans-serif;        
+  --font-serif: 'Russo One', serif;   
+  --color-background: #f9f9f9;            
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: white;
+  }
 }
 
 body {
   background-color: var(--color-background);
   font-family: var(--font-sans);
   line-height: 1.6;
-  color: inherit;
+  color: inherit; /* Let Tailwind text-* classes control color */
 }
 
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-serif);
   color: inherit; 
   font-weight: 500;
+  
 }
 
+/* Links default styling (optional) */
 a {
   text-decoration: none;
   transition: color 0.3s;
