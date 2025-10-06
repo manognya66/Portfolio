@@ -20,7 +20,7 @@ export default function About() {
   ];
 
   return (
-    <section id="about" className="relative bg-gray-100 py-12 md:py-24 px-4 md:px-6">
+    <section id="about" className="relative bg-gray-100 py-12 md:py-25 px-4 md:px-6">
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
         {/* Left - Illustration */}
         <motion.div
