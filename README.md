@@ -1,36 +1,127 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# R Shashank Manognya - Portfolio
 
-## Getting Started
+Welcome to my personal portfolio! I am a **passionate Web Developer** focused on building clean, professional, and responsive websites using modern technologies. This portfolio showcases my projects, skills, certifications, and contact information.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 About Me
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I'm a full-stack web developer creating modern, efficient, and user-friendly web applications. I focus on delivering seamless digital experiences that combine performance, design, and usability.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 💻 Skills
 
-## Learn More
+### Programming Languages
+- JavaScript
+- TypeScript
+- Python
 
-To learn more about Next.js, take a look at the following resources:
+### Frontend & Frameworks
+- HTML, CSS
+- React.js, Next.js
+- Tailwind CSS, Bootstrap
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Backend & Frameworks
+- Node.js, Express.js
+- Django
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Databases
+- MongoDB
+- MySQL
 
-## Deploy on Vercel
+### Cloud & Hosting
+- AWS
+- Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Tools
+- Git
+- VS Code
+- Postman
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🏆 Certifications & Badges
+
+- **AWS Cloud Quest: Cloud Practitioner** - Amazon Web Services  
+- **Networking Basics** - Cisco  
+
+[View all badges](#)  
+
+---
+
+## 🛠️ Projects
+
+### Image Gallery
+- **Description:** A visually appealing online application showcasing high-quality car images.  
+- **Tech:** HTML, CSS  
+- [Live Demo](https://image-gallery-xeur.vercel.app/) | [GitHub](https://github.com/manognya66/ImageGallery)
+
+### Shopping Cart
+- **Description:** An online dessert shopping application that allows users to add items to a cart.  
+- **Tech:** HTML, CSS, JavaScript  
+- [GitHub](https://github.com/yourusername/cart)
+
+### Online Community Bulletin Board
+- **Description:** A scalable web application for posting and registering for community events.  
+- **Tech:** React.js, CSS, Express.js, MongoDB, AWS  
+- [GitHub](https://github.com/yourusername/community-board)
+
+### Dietician Landing Page
+- **Description:** Sleek landing page for a dietician with modern UI.  
+- **Tech:** React.js, Next.js, Tailwind CSS  
+- [Live Demo](https://dietician-landing-page.vercel.app) | [GitHub](https://github.com/manognya66/DieticianLandingPage)
+
+### Task Manager
+- **Description:** Task tracking platform with authentication, scheduling, reminders, and progress visualization.  
+- **Tech:** React.js, Next.js, Tailwind CSS, Express.js, TypeScript, Clerk Authentication  
+- [Live Demo](https://task-manager-seven-gilt.vercel.app) | [GitHub](https://github.com/manognya66/TaskManager)
+
+### Protecting User Passwords at Rest
+- **Description:** Encrypts and decrypts files using a user-provided passphrase.  
+- **Tech:** Python  
+- [GitHub](https://github.com/manognya66/ProtectingUserPasswordsAtRest-On-Disk)
+
+---
+
+## 📫 Contact Me
+
+You can reach me via:
+
+- **Email:** shashankmanognya717@gmail.com  
+- **LinkedIn:** [R Shashank Manognya](https://www.linkedin.com/in/r-shashank-manognya-070874255)  
+- **GitHub:** [manognya66](https://github.com/manognya66)  
+
+Or use the contact form in this portfolio.
+
+---
+
+## 📄 Resume
+
+Download my resume here: [FullStack Developer Resume](public/assets/FullStackDeveloper_Resume-1.pdf)
+
+---
+
+## 🌐 Deployment
+
+This portfolio is hosted on **Vercel**. Built using **Next.js**, **React**, **Tailwind CSS**, and **TypeScript**.
+
+---
+
+## ⚡ Features
+
+- Fully responsive design
+- Modern UI animations using **Framer Motion**
+- Interactive project showcase
+- Contact form with email notifications
+- Scrollable interests section
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL 
+- **Cloud & Hosting:** AWS, Vercel  
+- **Tools:** Git, VS Code, Postman, Framer Motion
